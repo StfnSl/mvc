@@ -1,5 +1,10 @@
 <?php
-
+/**
+ * Lädt nachfolgenden Klassen anhand des Namensraumes
+ * @author Stefan Schölzel <stefan.schoelzel@loewe-logistics.de>
+ * @example $loader = new Autoload()
+ *          $loader->addNamespace('App', __DIR__)->register()
+ */
 final class Autoload{
   /**
    * Namespace Prefix

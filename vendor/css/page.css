@@ -1,0 +1,17 @@
+html{
+    font-size: 12px;
+}
+body{
+    scrollbar-face-color: #fff;
+    scrollbar-shadow-color: #fff;
+    scrollbar-highlight-color: #fff;
+    scrollbar-3dlight-color: #d9d9d9;
+    scrollbar-darkshadow-color: #d9d9d9;
+    scrollbar-track-color: #fff;
+    scrollbar-arrow-color: #000;
+    font: 1rem Verdana Tahoma, Arial, sans-serif;
+    text-decoration: none;
+    color: #777;
+    background: #ececec;
+    margin:0px;
+}
